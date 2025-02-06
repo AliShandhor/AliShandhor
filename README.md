@@ -6,11 +6,10 @@
 </p>
 ---
 
-### 🌱 About Me  
-- 🔭 Currently working on a **software company idea**  
-- 🛠️ Building **automation tools** to streamline workflows  
+## 🌱 About Me  
+- 💼 Gained hands-on experience in **software development**, working on real-world projects  
+- 🔭 Currently working ondevelopment and AI-driven full-stack application (AISalon)
 - 🎯 Always learning and exploring new **technologies**  
-
 ---
 
 ## 🛠️ Technical Skills
