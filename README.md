@@ -7,7 +7,7 @@
 ---
 
 ## 🌱 About Me  
-- 💼 Gained hands-on experience in **software development**, working on real-world projects  
+- 💼 Gained hands-on experience in **software development & AI/ML**, working on real-world projects  
 - 🔭 Currently working ondevelopment and AI-driven full-stack application (AISalon)
 - 🎯 Always learning and exploring new **technologies**  
 ---
