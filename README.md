@@ -1,10 +1,9 @@
 <h1 align="center">Hi, I'm Ali! 👋</h1>
 
 <p align="center">
-🚀 Software Developer | AI Enthusiast | Open-Source Contributor  
-💡 Passionate about automation, AI, and building impactful software  
+🚀 Software Engineer | AI Enthusiast | Lifelong Learner  
+💡 Passionate about developing innovative AI-driven full-stack software solutions  
 </p>
-
 ---
 
 ### 🌱 About Me  
